@@ -1,0 +1,1 @@
+tasks.all { logger.quiet("Hello from narnia") }
